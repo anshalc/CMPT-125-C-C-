@@ -1,0 +1,39 @@
+﻿Chatbot Description
+===============
+
+My chatbot program is programmed such that the user interacting with it feels that the chatbot is designed to be a funny yet mean chat window. The chatbot takes in input from the users and depending upon those input it lays down the replies. It also is capable of storing names for later use which could be considered as the foundation of the artificial intelligence. Below is a sample input of the conversation with my chatbot.
+
+----------------------------------------------------------------------------------------------------------------------------
+
+Chatbot Conversation
+----------------------------
+
+You> hello
+Chatty> hi!!, dont be shy tell me your name.
+
+You> Anshal
+Chatty> anshal woahh thats a unique name.
+i am funny!
+just kidding LOL! 
+i am your personal chatbot
+but still i can tell a joke, wanna hear one?";
+
+You> sure
+Chatty> I promise this will be hilarious,
+Knock!! Knock!!.
+
+You>  who’s there!
+Chatty> voodoo
+
+You> voodo who?
+Chatty> what did i do to deserve something out of my vocabulary
+
+You> voodoo who?
+Chatty> voodoo you think you are asking all these questions?
+
+You> lame
+Chatty> i guess you dont have any humour anshal
+
+You> bye
+Chatty> bye, i wish i had gotten a more interesting hooman (╯ ͡❛ ͜ʖ ͡❛)╯
+

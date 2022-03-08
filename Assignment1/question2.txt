@@ -1,0 +1,41 @@
+QUESTION 2
+============================================================================
+
+PROBLEM:
+The perimeters of the function (quicksort_messy) are not good enough for the user to understand what they are all about.  
+
+SOLUTION:
+Using better names for the perimeters so that it could be clear what the function takes in and also using (const) wherever we know the perimeters are going to be the same throughout the function. 
+-----------------------------------------------------------------------------
+
+PROBLEM:
+The indentation of the function is not proper.
+
+SOLUTION:
+Could be improved by initializing each variable in a seperate line, removing unnecessary brackets and aligining the stuff such that everything is clear to the debugger or the user.
+------------------------------------------------------------------------------
+
+PROBLEM:
+As we can see the technique of swapping is used twice in this function, which doesnt look very clean in the code.
+
+SOLUTION:
+Instead, we can make a new function named swap and call the function in quicksort_messy when required.
+-----------------------------------------------------------------------------
+
+PROBLEM:
+The name of the variables used inside the function doesnt give us proper redability of the function.
+
+SOLUTION:
+The names of the vaiables are supposed to be meaningful to the function so that each and every step is pretty clear wherever theses variables are used.
+------------------------------------------------------------------------------
+
+PROBLEM:
+In the entire function we seem to have no comments, which clearly confuses at places about the things that are going on, for examples in the lines 29 and 30, it is not very clear that the programmer wants to use recursions.
+
+SOLUTION:
+Adding comments could be very helpful as when debugging or analysing, comments could clear up a lot of things.
+==============================================================================
+
+[SOURCE]
+https://www.cprogramming.com/tutorial/programming-style-readability.html
+

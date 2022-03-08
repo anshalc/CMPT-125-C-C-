@@ -1,0 +1,7 @@
+According to me out of S1, S2, S3 ; S3 is the best since it
+uses a basic mathematical function to compute the result which
+is more efficient, faster and much more cleaner to look at than
+both S1 and S2. Both recursive function S1 and loops S2 has the 
+complexity of O(n) where as S3 has a complexity of O(1). Therefore,
+S3 uses lesser CPU time(or constant), doesnt consume enough memory
+and is easier for the computer to evaluate even for large values.
